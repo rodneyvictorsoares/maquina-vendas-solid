@@ -1,0 +1,38 @@
+[
+    {
+        "ID": 1,
+        "Nome": "Coca-Cola",
+        "Preco": 5.0,
+        "Tipo": "Refrigerante"
+    },
+    {
+        "ID": 2,
+        "Nome": "Rufles",
+        "Preco": 6.0,
+        "Tipo": "Salgado"
+    },
+    {
+        "ID": 3,
+        "Nome": "Bono",
+        "Preco": 3.5,
+        "Tipo": "Biscoito"
+    },
+    {
+        "ID": 4,
+        "Nome": "Pepsi-Cola",
+        "Preco": 4.0,
+        "Tipo": "Refrigerante"
+    },
+    {
+        "ID": 5,
+        "Nome": "Pringles",
+        "Preco": 10.0,
+        "Tipo": "Salgado"
+    },
+    {
+        "ID": 3,
+        "Nome": "Oreo",
+        "Preco": 5.5,
+        "Tipo": "Biscoito"
+    }
+]
